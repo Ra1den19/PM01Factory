@@ -1,0 +1,109 @@
+CREATE TABLE "Компании" (
+    "КодКомпании" SERIAL PRIMARY KEY,
+    "НазваниеКомпании" TEXT,
+    "АдресКомпании" TEXT,
+    "ЭлПочтаКомпании" TEXT,
+    "НомерТелефонаКомпании" TEXT
+);
+
+CREATE TABLE "Пользователи" (
+    "КодПользователя" SERIAL PRIMARY KEY,
+    "Фото" BYTEA,
+    "Логин" TEXT,
+    "Пароль" TEXT,
+    "Роль" TEXT,
+    "Фамилия" TEXT,
+    "Имя" TEXT,
+    "Отчество" TEXT,
+    "Гражданство" TEXT,
+    "ДатаРождения" TEXT,
+    "Пол" TEXT,
+    "СемейноеПоложение" TEXT,
+    "НаличиеДетей" TEXT,
+    "НомерТелефона" TEXT,
+    "ЭлПочта" TEXT,
+    "ДатаРегистрации" DATE
+);
+
+CREATE TABLE "Вакансии" (
+    "КодВакансии" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя"),
+    "КодКомпании" INTEGER REFERENCES "Компании"("КодКомпании"),
+    "НазваниеВакансии" TEXT,
+    "Специализация" TEXT,
+    "Город" TEXT,
+    "Студентам" TEXT,
+    "ОпытРаботы" TEXT,
+    "ТипЗанятости" TEXT,
+    "Подработка" TEXT,
+    "ГрафикРаботы" TEXT,
+    "Зарплата" TEXT,
+    "Образование" TEXT,
+    "Статус" TEXT,
+    "ДатаПубликации" DATE
+);
+
+CREATE TABLE "Резюме" (
+    "КодРезюме" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя") ON DELETE SET NULL,
+    "Наименование" TEXT,
+    "ЖелаемаяДолжность" TEXT,
+    "Зарплата" TEXT,
+    "Образование" TEXT,
+    "ГородПроживания" TEXT,
+    "ГрафикРаботы" TEXT,
+    "ПрофессиональныеНавыкиИЗнания" TEXT,
+    "НазваниеУчебногоЗаведения" TEXT,
+    "ФакультетУчебногоЗаведения" TEXT,
+    "СпециализацияУчебногоЗаведения" TEXT,
+    "ГодОкончанияУчебногоЗаведения" TEXT,
+    "НачалоРаботы" TEXT,
+    "ОкончаниеРаботы" TEXT,
+    "БывшаяКомпания" TEXT,
+    "БывшаяДолжность" TEXT,
+    "ОбязанностиИДостижения" TEXT,
+    "Статус" TEXT,
+    "ДатаПубликации" DATE
+);
+
+CREATE TABLE "ЗаявленияРаботодателей" (
+    "КодЗаявленияРаботодателя" SERIAL PRIMARY KEY,
+    "КодВакансии" INTEGER REFERENCES "Вакансии"("КодВакансии"),
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя"),
+    "ДатаПодачиЗаявления" DATE,
+    "СтатусЗаявления" TEXT
+);
+
+CREATE TABLE "ЗаявленияСоискателей" (
+    "КодЗаявленияСоискателя" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя"),
+    "КодРезюме" INTEGER REFERENCES "Резюме"("КодРезюме"),
+    "ДатаПодачиЗаявления" DATE,
+    "СтатусЗаявления" TEXT
+);
+
+CREATE TABLE "ИзбранныеВакансии" (
+    "КодИзбраннойВакансии" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя") ON DELETE CASCADE,
+    "КодВакансии" INTEGER REFERENCES "Вакансии"("КодВакансии") ON DELETE CASCADE
+);
+
+CREATE TABLE "ИзбранныеРезюме" (
+    "КодИзбранногоРезюме" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя") ON DELETE CASCADE,
+    "КодРезюме" INTEGER REFERENCES "Резюме"("КодРезюме") ON DELETE CASCADE
+);
+
+CREATE TABLE "Отклики" (
+    "КодОтклика" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя") ON DELETE CASCADE,
+    "КодВакансии" INTEGER REFERENCES "Вакансии"("КодВакансии") ON DELETE CASCADE,
+    "ДатаОтклика" DATE
+);
+
+CREATE TABLE "Приглашения" (
+    "КодПриглашения" SERIAL PRIMARY KEY,
+    "КодПользователя" INTEGER REFERENCES "Пользователи"("КодПользователя") ON DELETE CASCADE,
+    "КодРезюме" INTEGER REFERENCES "Резюме"("КодРезюме") ON DELETE CASCADE,
+    "ДатаПриглашения" DATE
+);
