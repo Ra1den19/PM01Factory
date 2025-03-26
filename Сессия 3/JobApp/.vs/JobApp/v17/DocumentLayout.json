@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\homeemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\homeemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\homeemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\homeemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\vacanciesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\vacanciesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\jobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\jobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\vacanciesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\vacanciesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\addvacancyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\addvacancyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\invitationsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\invitationsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\homejobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\homejobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\responsesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\responsesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\statementsjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\statementsjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\resumesemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\resumesemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\statementsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\statementsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\employerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\invitationsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\invitationsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\resumesemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\resumesemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\addvacancyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\addvacancyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\employerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\employerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\statementsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\statementsemployerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\statementsjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\statementsjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\responsesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\responsesjobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|c:\\users\\nicit\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\jobapp\\jobapp\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\homejobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\homejobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\jobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\jobseekerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\addresumeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\addresumeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\addresumeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\addresumeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\jobapp\\jobseekerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8643B9-F4F5-488A-BDDF-819F3C15236A}|JobApp\\JobApp.csproj|solutionrelative:jobapp\\jobseekerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacanciesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\VacanciesJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\VacanciesJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\VacanciesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\VacanciesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:43:16.176Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\JobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\JobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:17:56.811Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\HomeEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\HomeEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:24:07.321Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VacanciesJobSeekerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\VacanciesJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\VacanciesJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\VacanciesJobSeekerForm.cs",
+              "RelativeToolTip": "JobApp\\VacanciesJobSeekerForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:31:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddVacancyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddVacancyForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AddVacancyForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddVacancyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\AddVacancyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:25:50.865Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeEmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\HomeEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeEmployerForm.cs",
+              "RelativeToolTip": "JobApp\\HomeEmployerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:48:55.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\HomeJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\HomeJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:26:09.904Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponsesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResponsesJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\ResponsesJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResponsesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\ResponsesJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:07:14.934Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatementsJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\StatementsJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\StatementsJobSeekerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:52:39.094Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvitationsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\InvitationsEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\InvitationsEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\InvitationsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\InvitationsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:42:03.498Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\EmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\EmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:15:29.627Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResumesEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResumesEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\ResumesEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResumesEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\ResumesEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:33:00.98Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatementsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\StatementsEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\StatementsEmployerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:08:28.508Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\EmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerForm.cs",
+              "RelativeToolTip": "JobApp\\EmployerForm.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAcwIAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:23:20.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvitationsEmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\InvitationsEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\InvitationsEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\InvitationsEmployerForm.cs",
+              "RelativeToolTip": "JobApp\\InvitationsEmployerForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:02:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResumesEmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResumesEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\ResumesEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResumesEmployerForm.cs",
+              "RelativeToolTip": "JobApp\\ResumesEmployerForm.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAmwF4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:35:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddVacancyForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddVacancyForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AddVacancyForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddVacancyForm.cs",
+              "RelativeToolTip": "JobApp\\AddVacancyForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:48:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployerApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerApplication.cs",
+              "RelativeDocumentMoniker": "JobApp\\EmployerApplication.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\EmployerApplication.cs",
+              "RelativeToolTip": "JobApp\\EmployerApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:11:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatementsEmployerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsEmployerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\StatementsEmployerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsEmployerForm.cs",
+              "RelativeToolTip": "JobApp\\StatementsEmployerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:13:16.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatementsJobSeekerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\StatementsJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\StatementsJobSeekerForm.cs",
+              "RelativeToolTip": "JobApp\\StatementsJobSeekerForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:56:39.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponsesJobSeekerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResponsesJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\ResponsesJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\ResponsesJobSeekerForm.cs",
+              "RelativeToolTip": "JobApp\\ResponsesJobSeekerForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:09:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Invitation.cs",
+              "RelativeDocumentMoniker": "JobApp\\Invitation.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Invitation.cs",
+              "RelativeToolTip": "JobApp\\Invitation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:37:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeJobSeekerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeJobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\HomeJobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\HomeJobSeekerForm.cs",
+              "RelativeToolTip": "JobApp\\HomeJobSeekerForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:19:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Resume.cs",
+              "RelativeDocumentMoniker": "JobApp\\Resume.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Resume.cs",
+              "RelativeToolTip": "JobApp\\Resume.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA7wEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:34:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobSeekerForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\JobSeekerForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerForm.cs",
+              "RelativeToolTip": "JobApp\\JobSeekerForm.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:36:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AuthForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AuthForm.cs",
+              "RelativeToolTip": "JobApp\\AuthForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:35:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AuthForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:10:18.385Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddResumeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddResumeForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AddResumeForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddResumeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "JobApp\\AddResumeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:08:10.374Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddResumeForm.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddResumeForm.cs",
+              "RelativeDocumentMoniker": "JobApp\\AddResumeForm.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\AddResumeForm.cs",
+              "RelativeToolTip": "JobApp\\AddResumeForm.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:24:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Company.cs",
+              "RelativeDocumentMoniker": "JobApp\\Company.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Company.cs",
+              "RelativeToolTip": "JobApp\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:02:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Vacancy.cs",
+              "RelativeDocumentMoniker": "JobApp\\Vacancy.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Vacancy.cs",
+              "RelativeToolTip": "JobApp\\Vacancy.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:32:36.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\User.cs",
+              "RelativeDocumentMoniker": "JobApp\\User.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\User.cs",
+              "RelativeToolTip": "JobApp\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:10:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Response.cs",
+              "RelativeDocumentMoniker": "JobApp\\Response.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\Response.cs",
+              "RelativeToolTip": "JobApp\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:03:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JobSeekerApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerApplication.cs",
+              "RelativeDocumentMoniker": "JobApp\\JobSeekerApplication.cs",
+              "ToolTip": "C:\\Users\\nicit\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\JobApp\\JobApp\\JobSeekerApplication.cs",
+              "RelativeToolTip": "JobApp\\JobSeekerApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:26:11.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
