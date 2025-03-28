@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileJob.AccountPage"
+             Title="Мой аккаунт"
+             BackgroundColor="#f5f5f5">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="15" Spacing="10">
+                <!-- Заголовок -->
+                <Label Text="Информация об аккаунте" 
+                       FontSize="22" 
+                       FontAttributes="Bold" 
+                       TextColor="#333333"
+                       Margin="0,0,0,10" />
+
+                <!-- Данные пользователя -->
+                <Frame CornerRadius="8" 
+                       BackgroundColor="White" 
+                       Padding="15" 
+                       BorderColor="#dddddd">
+                    <StackLayout Spacing="15">
+                        <!-- ФИО -->
+                        <StackLayout>
+                            <Label Text="ФИО" FontSize="14" TextColor="#666666" />
+                            <Label x:Name="labelFIO" Text="ФИО не указано" FontSize="16" TextColor="#333333" />
+                            <BoxView HeightRequest="1" BackgroundColor="#eeeeee" />
+                        </StackLayout>
+
+                        <!-- Имя пользователя -->
+                        <StackLayout>
+                            <Label Text="Имя пользователя" FontSize="14" TextColor="#666666" />
+                            <Label x:Name="labelUsername" Text="Не указано" FontSize="16" TextColor="#333333" />
+                            <BoxView HeightRequest="1" BackgroundColor="#eeeeee" />
+                        </StackLayout>
+
+                        <!-- Пароль -->
+                        <StackLayout>
+                            <Label Text="Пароль" FontSize="14" TextColor="#666666" />
+                            <Label x:Name="labelPassword" Text="Не указан" FontSize="16" TextColor="#333333" />
+                            <BoxView HeightRequest="1" BackgroundColor="#eeeeee" />
+                        </StackLayout>
+
+                        <!-- Телефон -->
+                        <StackLayout>
+                            <Label Text="Телефон" FontSize="14" TextColor="#666666" />
+                            <Label x:Name="labelPhone" Text="Не указано" FontSize="16" TextColor="#333333" />
+                            <BoxView HeightRequest="1" BackgroundColor="#eeeeee" />
+                        </StackLayout>
+
+                        <!-- Email -->
+                        <StackLayout>
+                            <Label Text="Email" FontSize="14" TextColor="#666666" />
+                            <Label x:Name="labelEmail" Text="Не указано" FontSize="16" TextColor="#333333" />
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

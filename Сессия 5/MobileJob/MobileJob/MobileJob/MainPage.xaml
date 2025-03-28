@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileJob.MainPage"
+             BackgroundColor="#F5F7FA">
+
+    <Grid RowDefinitions="Auto,Auto,*">
+        <!-- Крупный заголовок "Работа" -->
+        <Label Text="Работа"
+               Grid.Row="0"
+               FontSize="32"
+               FontAttributes="Bold"
+               TextColor="#2D3748"
+               HorizontalOptions="Center"
+               Margin="0,40,0,20"/>
+
+        <!-- Центральный контейнер с формой -->
+        <Frame Grid.Row="1"
+               VerticalOptions="Start"
+               HorizontalOptions="Center"
+               Margin="24,0,24,24"
+               Padding="0"
+               CornerRadius="14"
+               BackgroundColor="White"
+               HasShadow="True"
+               WidthRequest="400"
+               HeightRequest="380">
+
+            <StackLayout Spacing="0">
+                <!-- Заголовок формы -->
+                <Label Text="Войдите в учетную запись"
+                       FontSize="20"
+                       FontAttributes="Bold"
+                       TextColor="#2D3748"
+                       HorizontalOptions="Center"
+                       Margin="0,24,0,24"/>
+
+                <!-- Форма входа -->
+                <StackLayout Padding="32,0,32,24" Spacing="16">
+                    <!-- Поле логина -->
+                    <StackLayout Spacing="4">
+                        <Label Text="Логин"
+                               FontSize="14"
+                               TextColor="#4A5568"
+                               Margin="4,0,0,4"/>
+                        <Entry Placeholder="Введите ваш логин"
+                               x:Name="usernameEntry"
+                               TextColor="#1A202C"
+                               PlaceholderColor="Gray"
+                               BackgroundColor="White"
+                               HeightRequest="48"/>
+                    </StackLayout>
+
+                    <!-- Поле пароля -->
+                    <StackLayout Spacing="4">
+                        <Label Text="Пароль"
+                               FontSize="14"
+                               TextColor="#4A5568"
+                               Margin="4,0,0,4"/>
+                        <Entry Placeholder="Введите ваш пароль"
+                               x:Name="passwordEntry"
+                               IsPassword="True"
+                               TextColor="#1A202C"
+                               PlaceholderColor="Gray"
+                               BackgroundColor="White"
+                               HeightRequest="48"/>
+                    </StackLayout>
+
+                    <!-- Кнопка входа -->
+                    <Button x:Name="loginButton"  Text="Войти"
+                            Margin="0,24,0,0"
+                            CornerRadius="24"
+                            HeightRequest="48"
+                            BackgroundColor="#4299E1"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Clicked="OnLoginClicked"/>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>

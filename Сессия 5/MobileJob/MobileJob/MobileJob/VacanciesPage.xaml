@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileJob.VacanciesPage"
+             Title="Вакансии"
+             BackgroundColor="#FAFAFA">
+
+    <StackLayout>
+        <!-- Поиск -->
+        <SearchBar x:Name="searchBar"
+                   Placeholder="Поиск вакансий"
+                   TextChanged="OnSearchTextChanged"
+                   Margin="10,10,10,0"/>
+
+        <!-- Список вакансий -->
+        <RefreshView x:Name="refreshView"
+                    Command="{Binding RefreshCommand}"
+                    IsRefreshing="{Binding IsRefreshing}">
+            <ListView x:Name="vacanciesList"
+                      HasUnevenRows="True"
+                      SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame Margin="10"
+                                   CornerRadius="10"
+                                   BackgroundColor="White"
+                                   Padding="15">
+                                <StackLayout Spacing="6">
+                                    <!-- Название и компания -->
+                                    <Label Text="{Binding VacancyTitle}"
+                                           FontSize="18"
+                                           FontAttributes="Bold"
+                                           TextColor="#1A202C"/>
+
+                                    <Label Text="{Binding CompanyName}"
+                                           FontSize="14"
+                                           TextColor="#4A5568"/>
+
+                                    <!-- Основная информация -->
+                                    <StackLayout Orientation="Horizontal" Spacing="10">
+                                        <Label Text="{Binding City}"
+                                               FontSize="14"
+                                               TextColor="#4A5568"/>
+                                        <Label Text="•"
+                                               TextColor="#A0AEC0"/>
+                                        <Label Text="{Binding Salary}"
+                                               FontSize="14"
+                                               TextColor="#4A5568"/>
+                                    </StackLayout>
+
+                                    <!-- Детали -->
+                                    <StackLayout Orientation="Horizontal" Spacing="10">
+                                        <Label Text="{Binding WorkSchedule}"
+                                               FontSize="13"
+                                               TextColor="#718096"/>
+                                        <Label Text="•"
+                                               TextColor="#A0AEC0"/>
+                                        <Label Text="{Binding EmploymentType}"
+                                               FontSize="13"
+                                               TextColor="#718096"/>
+                                    </StackLayout>
+
+                                    <!-- Дата и статус -->
+                                    <StackLayout Orientation="Horizontal" Spacing="10">
+                                        <Label Text="{Binding PublicationDate, StringFormat='{0:dd.MM.yyyy}'}"
+                                               FontSize="13"
+                                               TextColor="#718096"/>
+                                        <Label Text="•"
+                                               TextColor="#A0AEC0"/>
+                                        <Label Text="{Binding Status}"
+                                               FontSize="13"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </RefreshView>
+    </StackLayout>
+</ContentPage>

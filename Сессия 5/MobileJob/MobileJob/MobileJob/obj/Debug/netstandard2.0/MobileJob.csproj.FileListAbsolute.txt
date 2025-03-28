@@ -1,0 +1,44 @@
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.deps.json
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\ref\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\AccountPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\ApplicationsPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\EmployerPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\InspectorPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\JobSeekerPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\ResponsesPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\VacanciesPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.AssemblyInfoInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.AssemblyInfo.cs
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\refint\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.deps.json
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\ref\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\bin\Debug\netstandard2.0\MobileJob.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\AccountPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\ApplicationsPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\EmployerPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\InspectorPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\JobSeekerPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\ResponsesPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\VacanciesPage.xaml.g.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.AssemblyInfoInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.AssemblyInfo.cs
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\refint\MobileJob.dll
+C:\Users\nicit\OneDrive\Рабочий стол\Сессия 5\MobileJob\MobileJob\MobileJob\obj\Debug\netstandard2.0\MobileJob.pdb

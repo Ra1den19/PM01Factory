@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileJob.ResponsesPage"
+             Title="Мои отклики"
+             BackgroundColor="#FAFAFA">
+
+    <RefreshView x:Name="refreshView"
+                Command="{Binding RefreshCommand}"
+                IsRefreshing="{Binding IsRefreshing}">
+        <Grid>
+            <!-- Список откликов -->
+            <CollectionView x:Name="responsesCollectionView"
+                          SelectionMode="None">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical" 
+                          ItemSpacing="15"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.Header>
+                    <Frame BackgroundColor="#F0F4F8"
+                           CornerRadius="0"
+                           Padding="15,10"
+                           HasShadow="False">
+                        <Grid ColumnSpacing="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Вакансия"
+                                   FontAttributes="Bold"
+                                   TextColor="#4A5568"/>
+                            <Label Text="Компания"
+                                   Grid.Column="1"
+                                   FontAttributes="Bold"
+                                   TextColor="#4A5568"/>
+                            <Label Text="Дата"
+                                   Grid.Column="2"
+                                   FontAttributes="Bold"
+                                   TextColor="#4A5568"/>
+                        </Grid>
+                    </Frame>
+                </CollectionView.Header>
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="10,5"
+                               Padding="15"
+                               CornerRadius="8"
+                               BackgroundColor="White"
+                               HasShadow="False">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="{Binding VacancyTitle}"
+                                       TextColor="#1A202C"
+                                       FontSize="16"/>
+                                <Label Text="{Binding CompanyName}"
+                                       Grid.Column="1"
+                                       TextColor="#4A5568"
+                                       FontSize="14"/>
+                                <Label Text="{Binding ResponseDate, StringFormat='{0:dd.MM.yyyy}'}"
+                                       Grid.Column="2"
+                                       TextColor="#718096"
+                                       FontSize="13"/>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+                <CollectionView.EmptyView>
+                    <StackLayout VerticalOptions="Center"
+                                 HorizontalOptions="Center"
+                                 Padding="20">
+                        <Label Text="У вас пока нет откликов"
+                               FontSize="Medium"
+                               TextColor="#A0AEC0"
+                               HorizontalOptions="Center"/>
+                        <Label Text="Все ваши отклики на вакансии будут отображаться здесь"
+                               FontSize="Small"
+                               TextColor="#CBD5E0"
+                               HorizontalOptions="Center"/>
+                    </StackLayout>
+                </CollectionView.EmptyView>
+            </CollectionView>
+
+            <!-- Индикатор загрузки -->
+            <ActivityIndicator x:Name="loadingIndicator"
+                               Color="#4299E1"
+                               IsRunning="False"
+                               IsVisible="False"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"/>
+        </Grid>
+    </RefreshView>
+</ContentPage>

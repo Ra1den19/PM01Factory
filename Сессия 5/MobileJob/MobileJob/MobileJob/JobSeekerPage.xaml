@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileJob.JobSeekerPage"
+             Title="Работа"
+             BackgroundColor="#F5F7FA">
+
+    <Grid RowDefinitions="*,70">
+        <!-- Область для контента -->
+        <ContentView x:Name="ContentArea"
+                     Grid.Row="0"
+                     BackgroundColor="#F5F7FA"
+                     Margin="10"/>
+
+        <!-- Нижняя панель с 4 кнопками -->
+        <Grid Grid.Row="1"
+              BackgroundColor="White"
+              ColumnSpacing="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0"
+                    Text="Аккаунт"
+                    BackgroundColor="Transparent"
+                    TextColor="#2D3748"
+                    FontSize="14"
+                    FontAttributes="Bold"
+                    Clicked="OnAccountClicked"
+                    HeightRequest="70"/>
+
+            <!-- Вакансии -->
+            <Button Grid.Column="1"
+                    Text="Вакансии"
+                    BackgroundColor="Transparent"
+                    TextColor="#2D3748"
+                    FontSize="14"
+                    FontAttributes="Bold"
+                    Clicked="OnVacanciesClicked"
+                    HeightRequest="70"/>
+
+            <!-- Заявления -->
+            <Button Grid.Column="2"
+                    Text="Заявления"
+                    BackgroundColor="Transparent"
+                    TextColor="#2D3748"
+                    FontSize="14"
+                    FontAttributes="Bold"
+                    Clicked="OnApplicationsClicked"
+                    HeightRequest="70"/>
+
+            <!-- Отклики -->
+            <Button Grid.Column="3"
+                    Text="Отклики"
+                    BackgroundColor="Transparent"
+                    TextColor="#2D3748"
+                    FontSize="14"
+                    FontAttributes="Bold"
+                    Clicked="OnResponsesClicked"
+                    HeightRequest="70"/>
+        </Grid>
+    </Grid>
+</ContentPage>
