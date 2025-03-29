@@ -1,0 +1,10 @@
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\bin\Debug\SupabaseLoadTest.exe.config
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\bin\Debug\SupabaseLoadTest.exe
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\bin\Debug\SupabaseLoadTest.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\obj\Debug\SupabaseLoadTest.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\obj\Debug\SupabaseLoadTest.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\obj\Debug\Supabase.E19486A5.Up2Date
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\obj\Debug\SupabaseLoadTest.exe
+C:\Users\nicit\OneDrive\Рабочий стол\SupabaseLoadTest\SupabaseLoadTest\obj\Debug\SupabaseLoadTest.pdb
